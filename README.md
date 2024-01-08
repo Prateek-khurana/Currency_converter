@@ -1,2 +1,2 @@
 # Currency_converter
-A Project on currency converter using HTML, CSS and Javascript.
+A Project on currency conversion using HTML, CSS and Javascript.
